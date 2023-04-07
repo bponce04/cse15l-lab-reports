@@ -1,5 +1,15 @@
-# CSE 15L: Setting Up CSE 15L Account and GitHub Website
+# CSE 15L: Logging into your CSE 15L ieng6 account 
 
 ## Intro:
 
-Hello, my name is Brian Ponce and through out this report, I will be showing you: how you can set up your CSE 15L AD account for use in future labs and how to create your GitHub website, where you will be posting lab reports through out the quarter.
+Hello! My name is Brian Ponce and I am a Mathematics-Computer Science (MA30) major located in Warren College (go Bearls!). 
+
+In this lab report, I will be going over the following:
+
+* How to reset your CSE 15L Spring 2023 UCSD account password
+* Installing Bash and VS-Code and how you can use both to log into your ieng6 account
+
+## Step 1: Getting That CSE15L Account Password Reset
+
+What most incoming CSE 15L students don't know is that you have a specific UCSD account for each class you're enrolled in (especially CSE 15L).
+
