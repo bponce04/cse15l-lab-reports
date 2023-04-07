@@ -13,5 +13,7 @@ In this lab report, I will be going over the following:
 
 What most incoming CSE 15L students don't know is that you have a specific UCSD Account for this course. 
 
-To access this username, you must go to this [UCSD log-in page] (https://sdacs.ucsd.edu/~icc/index.php)
+1) To access this username, you must go to the Account-look up page (https://sdacs.ucsd.edu/~icc/index.php) and sign in with your UCSD AD username (e.g brponce)
+
+   and your PID (e.g A12345678).
 
