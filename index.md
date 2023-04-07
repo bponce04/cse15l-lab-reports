@@ -23,13 +23,21 @@ What most incoming CSE 15L students don't know is that you have a specific UCSD 
 
 For any trouble with following these procedures, a visual step-by-step [guide](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) created by the CSE 15L team is avaiable to guide you through out this process.
 
-![](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) 
+![ImageOne](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) 
 
 ## Step 2: Setting up Visual Studio Code and Git (Bash)
 
 Once you are done resetting the password to your CSE 15L account, you must then set up the programs Visual Studio Code and Git so that we are able to log-in to your ieng6 account.
 
-1) Download Visual Studio Code [here](https://code.visualstudio.com/download) and Git (Bash) [here](https://gitforwindows.org/). 
+1) Download Visual Studio Code [here](https://code.visualstudio.com/download) and Git (Bash) [here](https://gitforwindows.org/). You will be using both Visual Studio Code and Git (Bash) to log-in to your ieng6 account into a remote server.
+
+2) To use Git's Bash terminal, use the Crtl+Shift+P Visual Studio code shortcut to open a settings menu at the top of the program window. After doing so, then type in "Select Default Profile," where you must choose Git Bash to be your default terminal. Doing so will set Git Bash as your default terminal when opening a new terminal in Visual Studio Code.
+
+!{ImageTwo}(<URL HERE>)
+
+## Step 4: Getting Into The Remote Server (SSH)
+
+
 
 
 
