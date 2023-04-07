@@ -17,7 +17,7 @@ What most incoming CSE 15L students don't know is that you have a specific UCSD 
 
 2) After you log-in, you should be able to see your CSE 15L account username below the subheading **Additional Accounts.** By clicking on your CSE 15L account username, you will be directed to another page, in which it will ask you to change your global password at the near top of the page. Click on the link prompting you to change your password to reset your CSE 15L's account password. Be sure to use [this step-by-step guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) provided by CSE 15L team for more guidance in regards to resetting your CSE 15L account password.
 
-![ImageOne](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) 
+![](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) 
 
 ## Step 2: Setting up Visual Studio Code and Git (Bash)
 
