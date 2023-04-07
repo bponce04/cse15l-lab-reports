@@ -35,7 +35,7 @@ Once you are done resetting the password to your CSE 15L account, you must then 
 
 !{ImageTwo}(<URL HERE>)
 
-## Step 4: Getting Into The Remote Server (SSH)
+## Step 3: Getting Into The Remote Server (SSH)
 
 
 
