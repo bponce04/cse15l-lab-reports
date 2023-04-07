@@ -11,5 +11,7 @@ In this lab report, I will be going over the following:
 
 ## Step 1: Getting That CSE15L Account Password Reset
 
-What most incoming CSE 15L students don't know is that you have a specific UCSD account for each class you're enrolled in (especially CSE 15L).
+What most incoming CSE 15L students don't know is that you have a specific UCSD Account for this course. 
+
+To access this username, you must go to this UCSD login page: [link] https://sdacs.ucsd.edu/~icc/index.php 
 
