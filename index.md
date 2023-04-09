@@ -48,7 +48,9 @@ Once you have Visual Studio Code and Git Bash set up, it is finally time to log 
 
 Afterwards, you should see this message indicating that you were able to log in to your ieng6 account. 
 
-*Note: If you were not able to log in to your ieng6 account, make sure that you: 1. typed in your password correctly, 2. you typed in ieng6.ucsd.edu, 3. you copy and pasted your CSE 15L account password without any spaces before/after your actual password.*
+*Note: If you were not able to log in to your ieng6 account, make sure that you: 
+
+-1. typed in your password correctly. -You typed in ieng6.ucsd.edu -You copy and pasted your CSE 15L account password without any spaces before/after your actual password.*
   
 4)
 
