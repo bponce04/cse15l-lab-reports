@@ -56,6 +56,8 @@ Once you have your ieng6 account (if not, please look at the prior steps above),
 *  `ls`: Lists all the files inside a directory
 *  `cp`: Creates copies of files or a directory
 *  `cat`: Prints out the contents of a file in a directory
+*  `pwd`: Prints out the full path of a directory
+*  `mkdir`: Creates directories
 
 Feel free to play around with these commands and learn what each of them do!
 
