@@ -33,7 +33,7 @@ Once you are done resetting the password to your CSE 15L account, you must then 
 
 2) To use Git's Bash terminal, use the Crtl+Shift+P Visual Studio code shortcut to open a settings menu at the top of the program window. After doing so, then type in "Select Default Profile," where you must choose Git Bash to be your default terminal. Doing so will set Git Bash as your default terminal when opening a new terminal in Visual Studio Code.
 
-![ImageTwo]([tps://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Select%20Default%20Profile.png)
+![ImageTwo](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Select%20Default%20Profile.png)
 ## Step 3: Getting Into The Remote Server (SSH)
 
 Once you have Visual Studio Code and Git Bash set up, it is finally time to log in to your ieng6 account. 
