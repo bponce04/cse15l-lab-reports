@@ -23,7 +23,7 @@ What most incoming CSE 15L students don't know is that you have a specific UCSD 
 
 For any trouble with following these procedures, a visual step-by-step [guide](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) created by the CSE 15L team is avaiable to guide you through out this process.
 
-![ImageOne](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) 
+![ImageOne](Connection Prompt.png) 
 
 ## Step 2: Setting up Visual Studio Code and Git (Bash)
 
