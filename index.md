@@ -42,7 +42,7 @@ Afterwards, you should see this message indicating that you were able to log in 
 
 If everything was successful, then you have officially connected to the remote server with your ieng6 account! 
 
-*Note: If you were not able to log in to your ieng6 account, make sure that you:
+*Note: If you were not able to log in to your ieng6 account, make sure that you:*
 
 * typed in your password correctly. 
 * You typed in ieng6.ucsd.edu 
