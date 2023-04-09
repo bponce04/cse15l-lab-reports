@@ -23,7 +23,7 @@ What most incoming CSE 15L students don't know is that you have a specific UCSD 
 
 For any trouble with following these procedures, a visual step-by-step [guide](https://drive.google.com/file/d/1nlkyhMfsk2-grubXb6d4jC4ftWhQyJyh/view?usp=sharing) created by the CSE 15L team is avaiable to guide you through out this process.
 
-![](Connection Prompt.png) 
+![ImageOne](<URL HERE>)
 
 ## Step 2: Setting up Visual Studio Code and Git (Bash)
 
@@ -42,6 +42,8 @@ Once you have Visual Studio Code and Git Bash set up, it is finally time to log 
 1) Open up a new terminal in Visual Studio Code (either with Crtl + Shift + ' or by selecting 'New Terminal' in the Terminal bar). Make sure that you have Git Bash as your default terminal. If not, look at the second sub-step in Step 2.
   
 3) Once you have the Git-Bash terminal open in Visual Studio Code, type in the following command: `ssh`, with your CSE 15L account username afterwards with the address `ieng6.ucsd.edu`. Your input at this point should like this: `ssh cs15lsp23<insert your unique 2 characters here>@ieng6.ucsd.edu`. You will then recieve a message asking if you want to continue the connection. Make sure to type in `yes` to proceed.
+
+![ImageThree](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Connection%20Prompt.png)
   
 4)
 
