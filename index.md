@@ -50,7 +50,7 @@ Afterwards, you should see this message indicating that you were able to log in 
 
 *Note: If you were not able to log in to your ieng6 account, make sure that you: 
 
--1. typed in your password correctly. -You typed in ieng6.ucsd.edu -You copy and pasted your CSE 15L account password without any spaces before/after your actual password.*
+-typed in your password correctly. -You typed in ieng6.ucsd.edu -You copy and pasted your CSE 15L account password without any spaces before/after your actual password.*
   
 4)
 
