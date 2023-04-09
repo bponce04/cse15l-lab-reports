@@ -34,7 +34,11 @@ Once you have Visual Studio Code and Git Bash set up, it is finally time to log 
 
 ![ImageThree](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Connection%20Prompt.png)
 
-Afterwards, you should see this message indicating that you were able to log in to your ieng6 account. If everything was successful, then you have officially connected to the remote server with your ieng6 account! 
+Afterwards, you should see this message indicating that you were able to log in to your ieng6 account. 
+
+![ImageFour](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Successful%20Connection.png)
+
+If everything was successful, then you have officially connected to the remote server with your ieng6 account! 
 
 *Note: If you were not able to log in to your ieng6 account, make sure that you:
 
