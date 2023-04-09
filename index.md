@@ -1,3 +1,7 @@
+<Style>H1{color:Blue;}<Style>
+<Style>H2{color:DarkOrange;}<Style>
+<Style>p{color:Black;}<Style>
+
 # CSE 15L: Logging Into Your CSE 15L ieng6 Account 
 
 ## Intro and Pre-Set Up Information:
