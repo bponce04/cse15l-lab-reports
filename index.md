@@ -1,6 +1,6 @@
-<Style>H1{color:Blue;}<Style>
-<Style>H2{color:DarkOrange;}<Style>
-<Style>p{color:Black;}<Style>
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
 # CSE 15L: Logging Into Your CSE 15L ieng6 Account 
 
