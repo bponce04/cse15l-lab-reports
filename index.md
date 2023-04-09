@@ -28,7 +28,7 @@ Doing so will set Git Bash as your default terminal when opening a new terminal 
 
 Once you have Visual Studio Code and Git Bash set up, it is finally time to log in to your ieng6 account. 
   
-1) Open up a new terminal in Visual Studio Code (either with Crtl + Shift + ' or by selecting 'New Terminal' in the Terminal bar). Make sure that you have Git Bash as your default terminal. If not, look at the second sub-step in Step 2.
+1) Open up a new terminal in Visual Studio Code. Make sure that you have Git Bash as your default terminal, if not look at the second sub-step in Step 2.
   
 3) Once you have the Git-Bash terminal open in Visual Studio Code, type in the following command: `ssh`, with your CSE 15L account username afterwards with the address `ieng6.ucsd.edu`. Your input at this point should like this: `ssh cs15lsp23<insert your unique 2 characters here>@ieng6.ucsd.edu`. You will then recieve a message asking if you want to continue the connection. Make sure to type in `yes` to proceed. After typing in yes, you will asked to type in your **new** CSE 15L account password 
 
@@ -50,6 +50,14 @@ If everything was successful, then you have officially connected to the remote s
 
 ## Step 3: Using Remote Server Commands
 
+Once you have your ieng6 account (if not, please look at the prior steps above), we can now try some commands in Git Bash! Below are a few notable commands that we can use (and their function):
+
+* `cd`: Changes a terminal's current working directory
+*  `ls`: Lists all the files inside a directory
+*  `cp`: Creates copies of files or a directory
+*  `cat`: Prints out the contents of a file in a directory
+
+Feel free to play around with these commands and learn what each of them do!
 
   
 
