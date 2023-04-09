@@ -1,6 +1,6 @@
 # CSE 15L: Logging Into Your CSE 15L ieng6 Account 
 
-## Intro and :
+## Intro and Pre-Set Up Information:
 
 Hello! My name is Brian Ponce and I am a Mathematics-Computer Science (MA30) major from Warren College (go Bearls!). 
 
