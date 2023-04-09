@@ -1,4 +1,4 @@
-# CSE 15L: Logging into your CSE 15L ieng6 account 
+# CSE 15L: Logging Into Your CSE 15L ieng6 Account 
 
 ## Intro and :
 
