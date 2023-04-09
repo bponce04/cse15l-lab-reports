@@ -41,11 +41,15 @@ Once you have Visual Studio Code and Git Bash set up, it is finally time to log 
   
 1) Open up a new terminal in Visual Studio Code (either with Crtl + Shift + ' or by selecting 'New Terminal' in the Terminal bar). Make sure that you have Git Bash as your default terminal. If not, look at the second sub-step in Step 2.
   
-3) Once you have the Git-Bash terminal open in Visual Studio Code, type in the following command: `ssh`, with your CSE 15L account username afterwards with the address `ieng6.ucsd.edu`. Your input at this point should like this: `ssh cs15lsp23<insert your unique 2 characters here>@ieng6.ucsd.edu`. You will then recieve a message asking if you want to continue the connection. Make sure to type in `yes` to proceed. After typing in yes, you will asked to type in your **new** CSE 15L account password *(note that your password will not be visible when you type it in)*. 
+3) Once you have the Git-Bash terminal open in Visual Studio Code, type in the following command: `ssh`, with your CSE 15L account username afterwards with the address `ieng6.ucsd.edu`. Your input at this point should like this: `ssh cs15lsp23<insert your unique 2 characters here>@ieng6.ucsd.edu`. You will then recieve a message asking if you want to continue the connection. Make sure to type in `yes` to proceed. After typing in yes, you will asked to type in your **new** CSE 15L account password 
+
+*Note: Your password will not be visible when you type it in*.
 
 ![ImageThree](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Connection%20Prompt.png)
 
-Afterwards, you should see this message indicating that you were able to log in to your ieng6 account. *If you were not able to log in to your ieng6 account, make sure that you: 1. typed in your password correctly, 2. you typed in ieng6.ucsd.edu, 3. you copy and pasted your CSE 15L account password without any spaces before/after your actual password.*
+Afterwards, you should see this message indicating that you were able to log in to your ieng6 account. 
+
+*Note: If you were not able to log in to your ieng6 account, make sure that you: 1. typed in your password correctly, 2. you typed in ieng6.ucsd.edu, 3. you copy and pasted your CSE 15L account password without any spaces before/after your actual password.*
   
 4)
 
