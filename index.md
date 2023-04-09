@@ -37,6 +37,17 @@ Once you are done resetting the password to your CSE 15L account, you must then 
 
 ## Step 3: Getting Into The Remote Server (SSH)
 
+Once you have Visual Studio Code and Git Bash set up, it is finally time to log in to your ieng6 account. 
+  
+1) Open up a new terminal in Visual Studio Code (either with Crtl + Shift + ' or by selecting 'New Terminal' in the Terminal bar). Make sure that you have Git Bash as your default terminal. If not, look at the second sub-step in Step 2.
+  
+3) Once you have the Git-Bash terminal open in Visual Studio Code, type in the following command:
+  
+  #code-block 
+  ssh
+  
+4)
+
 
 
 
