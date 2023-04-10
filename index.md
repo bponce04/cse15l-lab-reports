@@ -10,7 +10,7 @@ In this lab report, I will be going over the following:
 * How to connect to a remote server using your ieng6 account
 * Using remote server commands (and tring them out!)
 
-*Note: Before starting on the first step, make sure that you have already reset the password to your UCSD CSE 15L account. If not, please use the [guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=sharing) by the CSE 15L team to do so.
+*Note: Before starting on the first step, make sure that you have already reset the password to your UCSD CSE 15L account. If not, please use the [guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=sharing) by the CSE 15L team to do so.*
 
 ## Step 1: Setting up Visual Studio Code and Git Bash
 
