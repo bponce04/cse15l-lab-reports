@@ -65,7 +65,9 @@ Once you have your ieng6 account (if not, please look at the prior steps above),
 *  `pwd`: Prints out the full path of a directory
 *  `mkdir`: Creates directories
 
-Here is an example of one of the commands being used:
+Here is an example of one of the commands: `ls` being used:
+
+>`ls -lat`:
 
 ![ImageFive](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Command%20Example.png)
 
