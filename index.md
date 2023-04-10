@@ -34,11 +34,13 @@ Once you have Visual Studio Code and Git Bash set up, it is finally time to log 
 
    `ssh cs15lsp23xy@ieng6.ucsd.edu` 
 
-You will then recieve a message asking if you want to continue the connection. Make sure to type in `yes` to proceed. After typing in yes, you will asked to type in your **new** CSE 15L account password 
-
-*Note: Your password will not be visible when you type it in*.
+You will then recieve a message asking if you want to continue the connection. 
 
 ![ImageThree](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Connection%20Prompt.png)
+
+Make sure to type in `yes` to proceed. After typing in yes, you will asked to type in your **new** CSE 15L account password 
+
+*Note: Your password will not be visible when you type it in*.
 
 Afterwards, you should see this message indicating that you were able to log in to your ieng6 account. 
 
