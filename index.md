@@ -4,7 +4,7 @@
 
 Hello! My name is Brian Ponce and I am a Mathematics-Computer Science (MA30) major from Warren College (go Bearls!). 
 
-In this lab report, I will be going over the following:
+In this first lab report, I will be helping you set up your ieng6 account and will specifically be going over the following steps:
 
 * How to install and set up Visual Studio Code and Git Bash
 * How to connect to a remote server using your ieng6 account
