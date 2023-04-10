@@ -75,7 +75,7 @@ Feel free to play around with these commands and learn what each of them do!
 
 ## Final Remarks:
 
-Congratulations, you just logged in to your ieng6 account! Your ieng6 account will be useful for future labs in CSE 15L. With this tool, you will be able to log in to the Computer Science and Engineering building lab computers down in the basement. Happy coding!
+Congratulations, you just logged in to your ieng6 account! Your ieng6 account will be useful for future labs in CSE 15L. With this tool, you will be able to log in to the Computer Science and Engineering building lab computers down in the basement.
 
   
 
