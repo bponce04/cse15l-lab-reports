@@ -65,7 +65,7 @@ Once you have your ieng6 account (if not, please look at the prior steps above),
 
 Here is an example of one of the commands being used:
 
-![ImageFive](<INSERT URL HERE>)
+![ImageFive](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/Command%20Example.png)
 
 Feel free to play around with these commands and learn what each of them do!
 
