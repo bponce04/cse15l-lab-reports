@@ -89,8 +89,6 @@ static int[] reversed(int[] arr) {
 
 // After:
 
-
-
 static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
     for (int i = 0; i < newArray.length; i ++) {
@@ -104,7 +102,7 @@ static int[] reversed(int[] arr) {
     return newArray;
   }
  ```
-The code in `//After:` addresses all of the issues described above because prior to my implementation of `reversed`, the method would not actually reverse the elements. With my new code, this issue is addressed by ensuring that the `arr` elements are copied to `newArray`. Another issue that was addressed in my implementation was that `arr` was still being used to swap the variables when it should have been `newArray`. Without these fixes, the code would have not been able to successfully create a new array with all of the elements reversed.
+The code in `//After` addresses all of the issues described above because prior to my implementation of `reversed`, the method would not actually reverse the elements. With my new code, this issue is addressed by ensuring that the `arr` elements are copied to `newArray`. Another issue that was addressed in my implementation was that `arr` was still being used to swap the variables when it should have been `newArray`. Without these fixes, the code would have not been able to successfully create a new array with all of the elements reversed.
 
 ## Part 3: Reflection
 
